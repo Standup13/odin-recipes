@@ -20,7 +20,7 @@ This is a personal list about thing i like to do and eat.
 
 ## Live Demo
 
-[Live Demo Link](https://standup13.github.io/Standup13/odin-recipes/)
+[Live Demo Link](https://standup13.github.io/odin-recipes/)
 
 ## Getting Started
 
