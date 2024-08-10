@@ -43,7 +43,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Leonard Mares**
+👤 **Leonard Alejandro Mares Padrón**
 
 - GitHub: [@Standup13](https://github.com/Standup13)
 - Twitter: [@LeonardMares13](https://twitter.com/LeonardMares13)
