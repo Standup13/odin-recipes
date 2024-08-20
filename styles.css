@@ -1,16 +1,77 @@
 * {
-  background-color: rgb(68, 177, 250);
+  background-color: rgb(255, 255, 255);
 }
 
 body {
   font-family: 'Open Sans', sans-serif;
+  
+  padding: 100px;
+  
+}
+
+form {
+  padding: 10px;
+  border-radius: 10px;
+  background-color: aqua;
 }
 
 .title-principal {
   background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  width: 20%;
+  margin: auto;
+}
+
+/*Pag Zucchini*/
+#title_brownie {
+  width: 20%;
   text-align: center;
-  width: 100%;
+  margin: auto;
   align-content: center;
-  margin: 0px;
-  display: block;
+}
+
+.img {
+  text-align: center;
+  margin: 0%;
+}
+
+.tdescription {
+  background-color: rgb(131 131 131 / 0.4);
+  width: 12%;
+  margin: auto;
+}
+
+.description {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.ingredients {
+  font-size: 20px;
+  margin-left: 25px;
+}
+
+li {
+  font-size: 17px;
+  background-color: rgb(131 131 131 / 0.4);
+}
+
+.frosting {
+  font-size: 20px;
+  margin-left: 25px;
+}
+
+.steps {
+  font-size: 20px;
+  margin-left: 25px;
+}
+
+p {
+  background-color: rgb(131 131 131 / 0.4);
+  margin: 0%;
+  font-size: 16px;
+}
+
+.return {
+  margin-left: 40px;
 }
