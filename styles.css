@@ -1,24 +1,19 @@
-* {
-  background-color: rgb(255, 255, 255);
+#index {
+  background:url(https://img3.stockfresh.com/files/s/sanjanovakovic/m/70/4854848_stock-vector-vintage-background-for-cooking-recipes-1.jpg);
 }
 
-body {
+.index {
   font-family: 'Open Sans', sans-serif;
-  
-  padding: 100px;
-  
+  padding: 10px;
+  margin: 15% 25% 25% 25%;
+  bottom: 500px;
+  border-radius: 10%;
 }
 
-form {
-  padding: 10px;
-  border-radius: 10px;
-  background-color: aqua;
-}
 
 .title-principal {
-  background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
-  width: 20%;
+  width: 40%;
   margin: auto;
 }
 
@@ -28,16 +23,31 @@ form {
   text-align: center;
   margin: auto;
   align-content: center;
+  background-color: rgba(255, 255, 255, 0.8);
 }
+
+#pagebrownie {
+  background: url(https://img.freepik.com/vector-premium/patron-brownies-postre-chocolate-fondos-ideas_748360-491.jpg?w=740);
+  padding: 20px;
+  border: 20%;
+}
+
+#pagecookies {
+  background: url(https://i.pinimg.com/originals/fb/3c/f2/fb3cf2fcbc704f77fca8a909d47cf526.jpg);
+  padding: 20px;
+  border: 20%;
+}
+
 
 .img {
   text-align: center;
   margin: 0%;
+  
 }
 
 .tdescription {
-  background-color: rgb(131 131 131 / 0.4);
-  width: 12%;
+  background-color: rgba(255, 255, 255, 0.8);
+  width: 18%;
   margin: auto;
 }
 
@@ -48,30 +58,46 @@ form {
 
 .ingredients {
   font-size: 20px;
+  width: 18%;
+  background-color: rgba(255, 255, 255, 0.8);
   margin-left: 25px;
 }
 
-li {
+ul li {
   font-size: 17px;
-  background-color: rgb(131 131 131 / 0.4);
+  background-color: rgba(255, 255, 255, 0.8);
+  width: 50%;
 }
 
 .frosting {
+  width: 12%;
+  background-color: rgba(255, 255, 255, 0.8);
   font-size: 20px;
   margin-left: 25px;
 }
 
 .steps {
+  width: 8%;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.step {
   font-size: 20px;
   margin-left: 25px;
+  font-size: 17px;
+  background-color: rgba(255, 255, 255, 0.8);
+  width: 6%;
 }
 
 p {
-  background-color: rgb(131 131 131 / 0.4);
   margin: 0%;
   font-size: 16px;
+  background-color: rgba(255, 255, 255, 0.8);
+  width: 100%;
 }
 
 .return {
   margin-left: 40px;
+  width: 10%;
+  background-color: rgba(255, 255, 255, 0.8);
 }
