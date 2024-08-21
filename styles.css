@@ -7,9 +7,14 @@
   padding: 10px;
   margin: 15% 25% 25% 25%;
   bottom: 500px;
+  font-size: 20px;
   border-radius: 10%;
 }
 
+.enlace {
+  font-size: 20px;
+  margin: 0px 150px;
+}
 
 .title-principal {
   color: rgb(0, 0, 0);
@@ -20,6 +25,14 @@
 /*Pag Zucchini*/
 #title_brownie {
   width: 20%;
+  text-align: center;
+  margin: auto;
+  align-content: center;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+#title_pancake {
+  width: 30%;
   text-align: center;
   margin: auto;
   align-content: center;
@@ -38,6 +51,11 @@
   border: 20%;
 }
 
+#pagepancakes {
+  background: url(https://static.vecteezy.com/system/resources/previews/000/558/623/non_2x/seamless-pattern-of-pancakes-with-butter-and-maple-syrup-sweet-on-white-background-vector.jpg);
+  padding: 20px;
+  border: 20%;
+}
 
 .img {
   text-align: center;
@@ -94,6 +112,7 @@ p {
   font-size: 16px;
   background-color: rgba(255, 255, 255, 0.8);
   width: 100%;
+  font-weight: bold;
 }
 
 .return {
