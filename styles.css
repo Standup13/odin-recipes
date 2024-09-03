@@ -1,30 +1,27 @@
-* {
-  margin: 0;
-}
-
 #index {
   background:url(https://img3.stockfresh.com/files/s/sanjanovakovic/m/70/4854848_stock-vector-vintage-background-for-cooking-recipes-1.jpg);
 }
 
 .index {
-  display: block;
   font-family: 'Open Sans', sans-serif;
-  margin: 25%;
-  bottom: 400px;
+  padding: 10px;
+  margin: 15% 25% 25% 25%;
+  bottom: 500px;
+  width: 500px;
   font-size: 20px;
+  border-radius: 10%;
+}
+
+.enlace {
+  font-size: 20px;
+  width: 100%;
+  margin: 0 auto;
 }
 
 .title-principal {
   color: rgb(0, 0, 0);
-  width: 100%;
-  text-align: center;
-  display: inline-block;
-}
-
-
-
-.enlace a {
-  text-decoration: none;
+  width: 40%;
+  margin: auto;
 }
 
 /*Pag Zucchini*/
@@ -86,7 +83,7 @@
   margin-left: 25px;
 }
 
-.frosting_parts, .ingredients_parts {
+ul li {
   font-size: 17px;
   background-color: rgba(255, 255, 255, 0.8);
   width: 50%;
