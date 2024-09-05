@@ -12,17 +12,46 @@
   border-radius: 10%;
 }
 
-.enlace {
-  font-size: 20px;
-  width: 100%;
-  margin: 0 auto;
-}
-
 .title-principal {
   color: rgb(0, 0, 0);
-  width: 40%;
+  width: 500px;
   margin: auto;
+  text-align: center;
 }
+
+div#link-recipes {
+  margin-left: 30px;
+  width: 500px;
+}
+
+#links {
+  display: inline;
+  margin: 0px;
+}
+
+.link {
+  font-size: 20px;
+  width: 100%;
+  margin: 0px;
+}
+
+ul li.link {
+  font-size: 18px;
+  width: 100%;
+  margin: 0px;
+}
+
+.png {
+  width: 60px;
+  padding-left: 50px;  
+  margin-bottom: -20px;
+  margin-right: 0 auto;
+}
+
+#png1 {
+  padding-left: 150px;
+}
+
 
 /*Pag Zucchini*/
 #title_brownie {
@@ -30,7 +59,6 @@
   text-align: center;
   margin: auto;
   align-content: center;
-  background-color: rgba(255, 255, 255, 0.8);
 }
 
 #title_pancake {
@@ -38,7 +66,6 @@
   text-align: center;
   margin: auto;
   align-content: center;
-  background-color: rgba(255, 255, 255, 0.8);
 }
 
 #pagebrownie {
@@ -59,6 +86,11 @@
   border: 20%;
 }
 
+#formbrownie, #formpancakes, #formcookies {
+  background-color: rgba(255, 255, 255, 0.6 );
+  border-radius: 20px;
+}
+
 .img {
   text-align: center;
   margin: 0%;
@@ -66,7 +98,6 @@
 }
 
 .tdescription {
-  background-color: rgba(255, 255, 255, 0.8);
   width: 18%;
   margin: auto;
 }
@@ -79,40 +110,34 @@
 .ingredients {
   font-size: 20px;
   width: 18%;
-  background-color: rgba(255, 255, 255, 0.8);
   margin-left: 25px;
 }
 
 ul li {
   font-size: 17px;
-  background-color: rgba(255, 255, 255, 0.8);
   width: 50%;
 }
 
 .frosting {
   width: 12%;
-  background-color: rgba(255, 255, 255, 0.8);
   font-size: 20px;
   margin-left: 25px;
 }
 
 .steps {
   width: 8%;
-  background-color: rgba(255, 255, 255, 0.8);
 }
 
 .step {
   font-size: 20px;
   margin-left: 25px;
   font-size: 17px;
-  background-color: rgba(255, 255, 255, 0.8);
   width: 6%;
 }
 
 p {
   margin: 0%;
   font-size: 16px;
-  background-color: rgba(255, 255, 255, 0.8);
   width: 100%;
   font-weight: bold;
 }
@@ -120,5 +145,4 @@ p {
 .return {
   margin-left: 40px;
   width: 10%;
-  background-color: rgba(255, 255, 255, 0.8);
 }
